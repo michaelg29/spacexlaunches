@@ -1,0 +1,5 @@
+
+SpaceXLaunches/__tests__/App-test.js
+SpaceXLaunches/android/*
+SpaceXLaunches/ios/*
+SpaceXLaunches/node_modules/*
